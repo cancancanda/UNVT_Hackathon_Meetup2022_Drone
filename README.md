@@ -9,3 +9,4 @@
 1. sagamihara20211215aoyamauniv1155mapconcierge00arw01_PointCloud_campus05.las をダウンロードしてこのフォルダに置く 
 2. `rake reproject` で a.las ファイルを作成
 
+      
